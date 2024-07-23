@@ -1,7 +1,8 @@
-CMakeFiles/output.dir/source/main.cpp.o: \
- /home/hsnsmn/dev/cppLearning/cpp-tut/source/main.cpp \
- /usr/include/stdc-predef.h /usr/include/c++/13/iostream \
- /usr/include/c++/13/bits/requires_hosted.h \
+CMakeFiles/output.dir/source/msuhDefy.cpp.o: \
+ /home/hsnsmn/dev/cppLearning/cpp-tut/source/msuhDefy.cpp \
+ /usr/include/stdc-predef.h \
+ /home/hsnsmn/dev/cppLearning/cpp-tut/header/msuh.h \
+ /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -149,5 +150,4 @@ CMakeFiles/output.dir/source/main.cpp.o: \
  /usr/include/c++/13/bits/locale_facets.tcc \
  /usr/include/c++/13/bits/basic_ios.tcc \
  /usr/include/c++/13/bits/ostream.tcc /usr/include/c++/13/istream \
- /usr/include/c++/13/bits/istream.tcc \
- /home/hsnsmn/dev/cppLearning/cpp-tut/header/msuh.h
+ /usr/include/c++/13/bits/istream.tcc

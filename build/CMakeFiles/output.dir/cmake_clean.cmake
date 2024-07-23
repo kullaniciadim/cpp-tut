@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/output.dir/source/main.cpp.o"
   "CMakeFiles/output.dir/source/main.cpp.o.d"
+  "CMakeFiles/output.dir/source/msuhDefy.cpp.o"
+  "CMakeFiles/output.dir/source/msuhDefy.cpp.o.d"
   "output"
   "output.pdb"
 )

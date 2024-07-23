@@ -1,8 +1,10 @@
 #include <iostream>
+#include <msuh.h>
 
 using namespace std;
 
 int main(){
-	std::cout << "Test\n";
+	log("gamers");
+	return 0;
 }
 

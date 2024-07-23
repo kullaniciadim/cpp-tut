@@ -153,6 +153,30 @@ source/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/source/main.cpp.s
 .PHONY : source/main.cpp.s
 
+source/msuhDefy.o: source/msuhDefy.cpp.o
+.PHONY : source/msuhDefy.o
+
+# target to build an object file
+source/msuhDefy.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/source/msuhDefy.cpp.o
+.PHONY : source/msuhDefy.cpp.o
+
+source/msuhDefy.i: source/msuhDefy.cpp.i
+.PHONY : source/msuhDefy.i
+
+# target to preprocess a source file
+source/msuhDefy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/source/msuhDefy.cpp.i
+.PHONY : source/msuhDefy.cpp.i
+
+source/msuhDefy.s: source/msuhDefy.cpp.s
+.PHONY : source/msuhDefy.s
+
+# target to generate assembly for a file
+source/msuhDefy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/output.dir/build.make CMakeFiles/output.dir/source/msuhDefy.cpp.s
+.PHONY : source/msuhDefy.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... source/main.o"
 	@echo "... source/main.i"
 	@echo "... source/main.s"
+	@echo "... source/msuhDefy.o"
+	@echo "... source/msuhDefy.i"
+	@echo "... source/msuhDefy.s"
 .PHONY : help
 
 
